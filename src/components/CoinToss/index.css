@@ -1,0 +1,39 @@
+/* Write your CSS here */
+img {
+  height: 200px;
+}
+button {
+  cursor: pointer;
+  background-color: #f9d423;
+  color: #e2a139;
+  border: none;
+  padding: 10px;
+  border-radius: 15px;
+}
+.top_cont {
+  background-color: #e2a139;
+  height: 100vh;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: #ffffff;
+  border-radius: 25px;
+  text-align: center;
+  height: 80%;
+  min-width: 400px;
+  max-width: 500px;
+}
+.output {
+  display: flex;
+  justify-content: center;
+  margin: -10px;
+}
+.disrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
